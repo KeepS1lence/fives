@@ -1,0 +1,14 @@
+h1{
+  text-align:center;
+  
+}
+a{
+  font-size:50px;
+}
+.img{
+  display:flex;
+  justify-content:center;
+}
+body{
+  background-image:url("https://www.shkolazhizni.ru/img/content/i134/134414_or.jpg");
+}
